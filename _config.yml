@@ -38,7 +38,7 @@ social:
   email: okt.wang@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/oswald.wang # change to your twitter homepage
+    - https://twitter.com/OswaldWang # change to your twitter homepage
     - https://github.com/okt-wang # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-QRBRKDJ23S
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
