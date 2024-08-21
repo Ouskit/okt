@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Ouskit's note # the main title
+title: Okt Wang's note # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the sub-title
 
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://okt-wang.github.io"
 
 github:
-  username: okt-wanag # change to your github username
+  username: okt-wang # change to your github username
 
 twitter:
   username: oswald.wang # change to your twitter username
