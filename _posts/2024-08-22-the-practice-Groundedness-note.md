@@ -1,5 +1,5 @@
 ---
-title: The Practice of Groundedness Note
+title: The Practice of Groundedness Reading Note
 date: 2024-08-21 23:29:53
 categories:
 - Reading_Note
